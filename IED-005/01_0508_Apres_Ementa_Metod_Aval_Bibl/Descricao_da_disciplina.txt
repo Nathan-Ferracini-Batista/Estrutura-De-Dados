@@ -1,0 +1,19 @@
+Disciplina:
+Nome: ESTRUTURA DE DADOS
+Área(s): CIÊNCIA DA COMPUTAÇÃO/ ENGENHARIA DA COMPUTAÇÃO
+Carga horária: 4 h/a
+Dia(s) da(s) aula(s): SEGUNDA-FEIRA
+Horário(s) das aula(s): das 7:40 às 11:10h
+Formato das aulas: 
+[ 100 ]% presencial e [ 0 ]% remoto síncrono, conforme PPC.
+2o. semestre laboratório: 100%
+Objetivo: _____________________
+Entender e criar algoritmos de nível não-elementar. Compreender e utilizar estruturas de
+dados lineares na resolução de problemas. Compreender e simular o funcionamento de
+algoritmos de ordenação. Entender e criar aplicações de busca sequencial e busca binária.
+Utilizar as técnicas de resolução de problemas no desenvolvimento de programas.
+Ementa: _____________________
+Alocação dinâmica e ponteiros; Arquivos; Introdução à notação assintótica; Tipos abstratos
+de dados: conceitos, operações, representações, manipulação, listas, pilhas e filas. Estruturas
+de representação de grafos (matriz de adjacência e de incidência). Estruturas para
+representação de árvores. Árvores binárias e suas aplicações.
